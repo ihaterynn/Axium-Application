@@ -2,6 +2,12 @@
 
 > **AI-Powered Recipe Suggestions with Intelligent Ingredient Analysis**
 
+## 📱 Project Overview
+
+![EasyRecipe UI](./assets/UI.png)
+
+*EasyRecipe's intuitive chat interface showcasing AI-powered recipe generation with real-time streaming responses*
+
 EasyRecipe is a modern web application that transforms your available ingredients into delicious recipe suggestions using advanced AI technology. Simply input what you have in your kitchen, and let our smart analyzer create personalized recipes with detailed instructions and nutritional information.
 
 ![EasyRecipe Demo](https://img.shields.io/badge/Status-Active-brightgreen) ![React](https://img.shields.io/badge/React-19.1.1-blue) ![FastAPI](https://img.shields.io/badge/FastAPI-0.68.0-green) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4.0-cyan)
