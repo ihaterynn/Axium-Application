@@ -10,7 +10,7 @@ class AIService:
     
     def __init__(self):
         self.api_token = os.getenv('HUGGINGFACE_API_TOKEN')
-        self.model_name = os.getenv('HUGGINGFACE_MODEL_NAME', 'microsoft/DialoGPT-medium')
+        self.model_name = os.getenv('HUGGINGFACE_MODEL_NAME', 'mistralai/Mistral-7B-Instruct-v0.3')
         
         if not self.api_token:
             raise ValueError("HuggingFace API token must be set in environment variables")
