@@ -262,7 +262,13 @@ python -m uvicorn main:app --reload  # Start with auto-reload
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**All Rights Reserved**
+
+Copyright (c) 2024 Ryan Chan
+
+This repository and its contents are the intellectual property of Ryan Chan. Unauthorized copying, modification, or distribution of this code is prohibited. Please contact the author for permission before any use.
+
+See the [LICENSE](LICENSE) file for complete terms.
 
 ## 🙏 Acknowledgments
 
@@ -282,6 +288,6 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ by the EasyRecipe Team**
+**Made with ❤️ by Ryan Chan**
 
 *Transform your ingredients into culinary masterpieces with AI-powered recipe generation!*
